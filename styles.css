@@ -1,0 +1,149 @@
+.topContainer {
+  padding: 150px;
+  position: relative;
+  background-color: #1a1a2e;
+}
+
+body {
+  text-align: center;
+  color: #F5F5F5;
+}
+
+hr {
+  border-color: lightgray;
+  border-style: dotted;
+  width: 30%;
+  border-width: 20px 0 0 0;
+  background-color: transparent;
+  margin: 150px auto 30px auto;
+}
+
+.headerHeading {
+  font-size: 5rem;
+  padding: 90px;
+  font-family: 'Sacramento', cursive;
+  color: #F5F5F5;
+}
+
+h2 {
+  padding: 20px;
+}
+
+h1 {
+  font-size: 3.5rem;
+  line-height: 2rem;
+  color: #F5F5F5;
+  padding: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+}
+
+p {
+  font-size: 2rem;
+  padding: 30px;
+  padding-left: 0;
+  clear: left;
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+  line-height: 3rem;
+  font-weight: bold;
+  color: #F5F5F5;
+}
+
+.topCloud {
+  position: absolute;
+  top: 20px;
+  right: 350px;
+  width: 20%
+}
+
+.bottomCloud {
+  position: absolute;
+  left: 400px;
+  width: 20%
+}
+
+.mountain {
+  width: 50%;
+  margin-top: 100px;
+
+}
+
+.profilePic {
+  width: 30%;
+  float: left;
+  margin-bottom: 60px;
+}
+
+.middleContainer {
+  padding: 15% 15% 2% 15%;
+  background-color: #16213e;
+  position: relative;
+}
+
+.thirdContainer {
+  padding: 15% 15% 2% 15%;
+  background-color: #0f3460;
+  position: relative;
+}
+
+.forthContainer {
+  padding: 15% 15% 2% 15%;
+  background-color: #e94560;
+  position: relative;
+}
+
+.contact-me {
+  padding: 15% 15% 2% 15%;
+  background-color: #1a1a2e;
+  position: relative;
+  color: white;
+  text-align: center;
+}
+
+.footer-link {
+  margin-bottom: 30px;
+  color: #1a1a2e;
+  padding: 50px;
+  text-align: center;
+}
+
+.btn {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  margin-bottom: 90px;
+  margin-top: 90px;
+}
+
+.copyright {
+  margin-left: 40px;
+  font-size: 15px;
+  text-align: center;
+  color: #1a1a2e
+}
+
+.externalLinks {
+  text-align: center;
+}
+
+.headings {
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #F5F5F5;
+}
+
+ul{
+  clear: left;
+  text-align: left;
+  font-size: 2rem;
+  font-family: 'Roboto', sans-serif;
+  line-height: 3rem;
+  color: black;
+  font-weight: bold;
+
+}
+
+.footer{
+  padding: 150px 0 0 0;
+}
