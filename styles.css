@@ -32,7 +32,7 @@ h2 {
 
 h1 {
   font-size: 3.5rem;
-  line-height: 2rem;
+  line-height: 3.5rem;
   color: #F5F5F5;
   padding: 20px;
   font-family: 'Montserrat', sans-serif;
@@ -111,7 +111,7 @@ p {
 
 .btn {
   display: block;
-  margin: 0 auto;
+  margin: 0 auto;++
   margin-bottom: 30px;
   margin-bottom: 90px;
   margin-top: 90px;
@@ -140,7 +140,8 @@ ul{
   font-size: 2rem;
   font-family: 'Roboto', sans-serif;
   line-height: 3rem;
-  color: black;
+  color:black;
+  font-weight: bold;
   font-weight: bold;
 
 }
