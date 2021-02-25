@@ -111,7 +111,7 @@ p {
 
 .btn {
   display: block;
-  margin: 0 auto;++
+  margin: 0 auto;
   margin-bottom: 30px;
   margin-bottom: 90px;
   margin-top: 90px;
@@ -148,4 +148,8 @@ ul{
 
 .footer{
   padding: 150px 0 0 0;
+}
+
+.container-fluid{
+  padding: 0;
 }
