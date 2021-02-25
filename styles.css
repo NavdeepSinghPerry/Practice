@@ -1,7 +1,7 @@
 .topContainer {
   padding: 150px;
   position: relative;
-  background-color: #1a1a2e;
+  background-color: #99bbad;
 }
 
 body {
@@ -65,7 +65,7 @@ p {
 }
 
 .mountain {
-  width: 50%;
+  width: 100%;
   margin-top: 100px;
 
 }
@@ -78,25 +78,25 @@ p {
 
 .middleContainer {
   padding: 15% 15% 2% 15%;
-  background-color: #16213e;
+  background-color: #ebd8b7;
   position: relative;
 }
 
 .thirdContainer {
   padding: 15% 15% 2% 15%;
-  background-color: #0f3460;
+  background-color: #c6a9a3;
   position: relative;
 }
 
 .forthContainer {
   padding: 15% 15% 2% 15%;
-  background-color: #e94560;
+  background-color: #9a8194;
   position: relative;
 }
 
 .contact-me {
   padding: 15% 15% 2% 15%;
-  background-color: #1a1a2e;
+  background-color: #99bbad;
   position: relative;
   color: white;
   text-align: center;
