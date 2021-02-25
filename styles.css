@@ -66,7 +66,7 @@ p {
 }
 
 .mountain {
-  width: 50%;
+  width: 100%;
   margin-top: 100px;
 
 }
@@ -112,7 +112,7 @@ p {
 
 .btn {
   display: block;
-  margin: 0 auto;++
+  margin: 0 auto;
   margin-bottom: 30px;
   margin-bottom: 90px;
   margin-top: 90px;
